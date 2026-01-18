@@ -1,0 +1,8 @@
+body {
+    margin : 0 ;
+    background: #222 ;
+    font-family: 'Times New Roman', Times, serif;
+    display: grid;
+    place-content: center;
+    min-height: 100vh ;
+}
