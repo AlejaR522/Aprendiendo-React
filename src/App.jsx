@@ -5,7 +5,6 @@ import './App.css'
 import { TwitterFollowCard } from './TwitterFollowCard'
 
 export function App ( ){ 
-
     const [name, setName] = useState ('Aleja Ruiz')
     //name:valor, setName:estado
 
@@ -57,3 +56,4 @@ export function App ( ){
     </section>
     )
 }
+
